@@ -1,0 +1,4 @@
+cymysql==0.9.1
+Django==1.11.6
+django-cymysql==0.5.1
+pytz==2017.2
